@@ -30,7 +30,6 @@ function App() {
 
  useEffect(()=>{
   fetchData()
-  // console.log(label);
  },[])
 
   return (
