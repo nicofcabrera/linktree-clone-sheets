@@ -19,7 +19,7 @@ function App() {
       });
     })
 
-    // console.log(parse);
+    console.log(parsed.data);
     setLabel(parsed.data)
    
   } catch (error) {
